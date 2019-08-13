@@ -1,2 +1,3 @@
-worker: nodejs index.js
+worker: run.bat
+
 
