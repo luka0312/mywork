@@ -1,1 +1,2 @@
-worker: javascript index.js
+worker: run.bat
+
